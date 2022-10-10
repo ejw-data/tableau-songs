@@ -1,3 +1,9 @@
+# Mac Related
+.DS_Store
+
+# Too large data file
+tracks_features.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
